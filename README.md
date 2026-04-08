@@ -10,7 +10,7 @@ Group coursework for 5DATA004C Data Science Project Lifecycle.
 - Tharusha Dharmappriya
 
 ## Repository Structure
-- notebooks/: Jupyter/Colab notebooks
+- notebooks/: Colab notebooks
 - data/raw/: original coursework datasets
 - data/predictions/: generated test predictions
 - report/: report files
